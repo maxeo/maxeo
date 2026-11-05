@@ -61,3 +61,5 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 - **MyCloud:** file manager in PHP e HTML5
 - **QRcode Maker:** QR code personalizzati nel testo e nella grafica
 - **BrainGame e Portale LV:** giochi per allenare calcolo, vista e memoria
+
+<sub>Icone delle competenze: <a href="https://github.com/tandpfun/skill-icons">skill-icons</a>, licenza MIT.</sub>

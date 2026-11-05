@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Matteo Burbui, sviluppatore">
+<defs>
+<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14121c"/><stop offset=".62" stop-color="#34244a"/><stop offset="1" stop-color="#9c5a3c"/></linearGradient>
+<radialGradient id="a"><stop offset="0" stop-color="#e9a65b" stop-opacity=".65"/><stop offset="1" stop-color="#e9a65b" stop-opacity="0"/></radialGradient>
+<clipPath id="o"><rect width="1200" height="262"/></clipPath>
+</defs>
+<style>
+.st{fill:#f1ece3;animation:t 6s ease-in-out infinite}
+@keyframes t{0%,100%{opacity:.15}50%{opacity:.9}}
+.so{animation:s 16s ease-in-out infinite alternate}
+@keyframes s{from{transform:translateY(82px)}to{transform:translateY(0)}}
+.ri{stroke:#e9a65b;stroke-width:2;animation:r 4s linear infinite}
+@keyframes r{from{transform:translateY(0);opacity:.75}to{transform:translateY(58px);opacity:0}}
+.no{font:500 68px "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;fill:#f1ece3}
+.fr{font:400 28px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#e9a65b;opacity:0;animation:f 16s infinite}
+@keyframes f{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-8px)}}
+.pr{opacity:1}
+@media (prefers-reduced-motion:reduce){.st,.so,.ri,.fr{animation:none}.fr{opacity:0}.fr.f0{opacity:1}.so{transform:translateY(20px)}.ri{opacity:.4}}
+</style>
+<rect width="1200" height="320" fill="url(#c)"/>
+<circle class="st" cx="1" cy="194" r="1.9" style="animation-delay:-4.4s"/><circle class="st" cx="578" cy="185" r="1.2" style="animation-delay:-4.7s"/><circle class="st" cx="979" cy="11" r="2.1" style="animation-delay:-1.6s"/><circle class="st" cx="741" cy="29" r="2.0" style="animation-delay:-1.2s"/><circle class="st" cx="90" cy="140" r="2.0" style="animation-delay:-0.5s"/><circle class="st" cx="1189" cy="99" r="1.6" style="animation-delay:-4.0s"/><circle class="st" cx="1" cy="190" r="1.3" style="animation-delay:-3.0s"/><circle class="st" cx="1027" cy="162" r="2.0" style="animation-delay:-2.2s"/><circle class="st" cx="1060" cy="64" r="2.2" style="animation-delay:-5.2s"/><circle class="st" cx="684" cy="167" r="1.1" style="animation-delay:-1.5s"/><circle class="st" cx="577" cy="82" r="1.9" style="animation-delay:-3.3s"/><circle class="st" cx="346" cy="123" r="1.5" style="animation-delay:-3.1s"/><circle class="st" cx="980" cy="143" r="1.9" style="animation-delay:-2.8s"/><circle class="st" cx="765" cy="3" r="1.8" style="animation-delay:-0.9s"/><circle class="st" cx="328" cy="137" r="1.8" style="animation-delay:-3.1s"/><circle class="st" cx="388" cy="182" r="2.2" style="animation-delay:-0.2s"/><circle class="st" cx="941" cy="190" r="1.1" style="animation-delay:-1.5s"/><circle class="st" cx="296" cy="142" r="1.6" style="animation-delay:-5.7s"/><circle class="st" cx="257" cy="31" r="1.1" style="animation-delay:-1.6s"/><circle class="st" cx="755" cy="112" r="1.2" style="animation-delay:-0.5s"/><circle class="st" cx="398" cy="82" r="1.4" style="animation-delay:-3.9s"/><circle class="st" cx="13" cy="58" r="2.2" style="animation-delay:-0.1s"/><circle class="st" cx="1141" cy="172" r="1.1" style="animation-delay:-5.3s"/><circle class="st" cx="1131" cy="142" r="1.9" style="animation-delay:-5.9s"/><circle class="st" cx="599" cy="115" r="1.5" style="animation-delay:-4.8s"/><circle class="st" cx="1074" cy="116" r="1.0" style="animation-delay:-1.4s"/><circle class="st" cx="1186" cy="4" r="0.8" style="animation-delay:-0.0s"/><circle class="st" cx="762" cy="72" r="2.1" style="animation-delay:-0.6s"/><circle class="st" cx="561" cy="11" r="2.0" style="animation-delay:-3.8s"/><circle class="st" cx="647" cy="72" r="0.9" style="animation-delay:-5.2s"/><circle class="st" cx="336" cy="198" r="1.2" style="animation-delay:-4.2s"/><circle class="st" cx="535" cy="119" r="1.3" style="animation-delay:-5.0s"/><circle class="st" cx="554" cy="179" r="1.8" style="animation-delay:-2.0s"/><circle class="st" cx="817" cy="1" r="1.0" style="animation-delay:-1.7s"/><circle class="st" cx="572" cy="85" r="1.4" style="animation-delay:-5.7s"/><circle class="st" cx="840" cy="188" r="1.7" style="animation-delay:-2.9s"/><circle class="st" cx="577" cy="40" r="2.1" style="animation-delay:-2.4s"/><circle class="st" cx="1132" cy="91" r="1.1" style="animation-delay:-2.8s"/><circle class="st" cx="563" cy="36" r="0.9" style="animation-delay:-1.6s"/><circle class="st" cx="637" cy="53" r="1.6" style="animation-delay:-0.5s"/><circle class="st" cx="664" cy="71" r="1.4" style="animation-delay:-3.0s"/><circle class="st" cx="699" cy="10" r="1.9" style="animation-delay:-5.5s"/><circle class="st" cx="266" cy="68" r="2.1" style="animation-delay:-3.6s"/><circle class="st" cx="465" cy="152" r="1.5" style="animation-delay:-1.5s"/><circle class="st" cx="34" cy="59" r="1.2" style="animation-delay:-2.6s"/><circle class="st" cx="968" cy="32" r="1.7" style="animation-delay:-4.7s"/>
+<g clip-path="url(#o)"><g class="so"><circle cx="930" cy="215" r="190" fill="url(#a)"/><circle cx="930" cy="215" r="72" fill="#e9a65b"/></g></g>
+<rect y="262" width="1200" height="58" fill="#14121c"/>
+<line class="ri" x1="0" x2="1200" y1="263" y2="263"/>
+<line class="ri" x1="0" x2="1200" y1="263" y2="263" style="animation-delay:-1.33s"/>
+<line class="ri" x1="0" x2="1200" y1="263" y2="263" style="animation-delay:-2.66s"/>
+<text class="no" x="64" y="132">Matteo Burbui</text>
+<text class="fr f0" x="66" y="184" style="animation-delay:0.0s">Sviluppo .NET e agenti AI</text>
+<text class="fr f1" x="66" y="184" style="animation-delay:4.0s">Software e web dal 2010</text>
+<text class="fr f2" x="66" y="184" style="animation-delay:8.0s">Oggetti da stampare in 3D</text>
+<text class="fr f3" x="66" y="184" style="animation-delay:12.0s">Storie da ascoltare</text>
+</svg>
