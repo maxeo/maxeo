@@ -19,8 +19,8 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 <td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-skinkocchiali"><img src="assets/skinkocchiali.svg" alt="SkinkOcchiali montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-skinkocchiali">SkinkOcchiali</a></b><br>Modulo porta occhiali e patch stampato in 3D.</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-sakura"><img src="assets/sakura.svg" alt="Sakura montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-sakura">Sakura</a></b><br>Pannello decorativo in 6 moduli con giunti a perno.</td>
-<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-supporto-tablet"><img src="assets/supporto-tablet.svg" alt="Supporto per tablet montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-supporto-tablet">Supporto per tablet</a></b><br>Supporto diviso in pezzi a incastro.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-organizer-modulare"><img src="assets/organizer-modulare.svg" alt="Organizer modulare montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-organizer-modulare">Organizer modulare</a></b><br>Base parametrica per un organizer autoreggente e impilabile.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-supporto-telefono"><img src="assets/supporto-telefono.svg" alt="Supporto per telefono montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-supporto-telefono">Supporto per telefono</a></b><br>Supporto pieghevole da scrivania con braccio telescopico.</td>
 <td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-stand-controller-ps5"><img src="assets/stand-ps5.svg" alt="Stand per controller PS5 montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-stand-controller-ps5">Stand per controller PS5</a></b><br>Stand stampato in 3D.</td>
 </tr>
 </table>
