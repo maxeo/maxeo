@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Matteo Burbui: sviluppo .NET e agenti AI, software e web dal 2010, stampa 3D e storie da ascoltare" width="100%">
+
 # Matteo Burbui · maxeo
 
 Sviluppatore full stack con esperienza dal 2010, tra software aziendale, web e sistemi Linux. Oggi lavoro in ambito .NET e su agenti AI aziendali. Nel tempo libero progetto oggetti da stampare in 3D e sperimento con la narrativa.
@@ -10,14 +12,20 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 
 ## Progetti recenti
 
-| Progetto | Descrizione |
-|---|---|
-| [L'ultima alba di Dalmasca](https://github.com/maxeo/ultima-alba-di-dalmasca) | Romanzo di fan da *Final Fantasy XII*, scritto con modelli AI sotto la mia direzione, con [lettore per l'audiolibro](https://maxeo.github.io/ultima-alba-di-dalmasca/). Opera non ufficiale e non commerciale |
-| [Guide di stampa 3D](https://maxeo.github.io/3dprint-guide/) | Guide HTML interattive di stampa e montaggio |
-| [SkinkOcchiali](https://github.com/maxeo/3dprint-skinkocchiali) | Modulo porta occhiali e patch stampato in 3D |
-| [GattoLavello](https://github.com/maxeo/3dprint-gattolavello) | Porta-saponi con gatto, kit in 7 pezzi a incastro |
-| [Sakura](https://github.com/maxeo/3dprint-sakura) | Pannello decorativo in 6 moduli con giunti a perno |
-| [Supporto per tablet](https://github.com/maxeo/3dprint-supporto-tablet) | Supporto diviso in pezzi a incastro |
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/ultima-alba-di-dalmasca"><img src="assets/romanzo.svg" alt="Copertina animata con un'alba" width="100%"></a><br><b><a href="https://github.com/maxeo/ultima-alba-di-dalmasca">L'ultima alba di Dalmasca</a></b><br>Romanzo di fan da <i>Final Fantasy XII</i>, scritto con modelli AI sotto la mia direzione, con <a href="https://maxeo.github.io/ultima-alba-di-dalmasca/">lettore per l'audiolibro</a>. Opera non ufficiale e non commerciale.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-gattolavello"><img src="assets/gattolavello.svg" alt="GattoLavello montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-gattolavello">GattoLavello</a></b><br>Porta-saponi con gatto, kit in 7 pezzi a incastro.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-skinkocchiali"><img src="assets/skinkocchiali.svg" alt="SkinkOcchiali montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-skinkocchiali">SkinkOcchiali</a></b><br>Modulo porta occhiali e patch stampato in 3D.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-sakura"><img src="assets/sakura.svg" alt="Sakura montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-sakura">Sakura</a></b><br>Pannello decorativo in 6 moduli con giunti a perno.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-supporto-tablet"><img src="assets/supporto-tablet.svg" alt="Supporto per tablet montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-supporto-tablet">Supporto per tablet</a></b><br>Supporto diviso in pezzi a incastro.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/3dprint-stand-controller-ps5"><img src="assets/stand-ps5.svg" alt="Stand per controller PS5 montato ed esploso" width="100%"></a><br><b><a href="https://github.com/maxeo/3dprint-stand-controller-ps5">Stand per controller PS5</a></b><br>Stand stampato in 3D.</td>
+</tr>
+</table>
+
+I modelli hanno una [guida interattiva di stampa e montaggio](https://maxeo.github.io/3dprint-guide/).
 
 ## Esperienza
 
@@ -29,6 +37,8 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 - **OGA S.r.l.,** 2010-2014: tipografia, sviluppo di un e-commerce di etichette e di software per gestire la produzione.
 
 ## Competenze
+
+<img src="assets/competenze.svg" alt=".NET, C#, PHP, JavaScript, Vue, Symfony, Laravel, Docker, Linux, Git e Blender" width="100%">
 
 - **Linguaggi:** C#/.NET, PHP, JavaScript, SQL, HTML, CSS
 - **Framework:** Symfony, Laravel, CodeIgniter, Laminas, Vue.js, Ionic, jQuery
