@@ -14,9 +14,9 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/maxeo/leggio"><img src="assets/leggio.svg" alt="Il lettore con il testo che segue la voce" width="100%"></a><br><b><a href="https://github.com/maxeo/leggio">Leggio</a></b><br>Lettore web di audiolibri con il testo sincronizzato, per uno o più libri, con <a href="https://maxeo.github.io/leggio/">esempio da sfogliare</a>.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/leggio"><img src="assets/leggio.svg" alt="Il lettore con il testo che segue la voce" width="100%"></a><br><b><a href="https://github.com/maxeo/leggio">Leggio</a></b><br>Lettore web di audiolibri con il testo sincronizzato, per uno o più libri. Si installa con npm e si pubblica su GitHub Pages, con <a href="https://maxeo.github.io/leggio/">esempio da sfogliare</a>.</td>
 <td width="33%" valign="top"><a href="https://github.com/maxeo/ultima-alba-di-dalmasca"><img src="assets/romanzo.svg" alt="Copertina animata con un'alba" width="100%"></a><br><b><a href="https://github.com/maxeo/ultima-alba-di-dalmasca">L'ultima alba di Dalmasca</a></b><br>Romanzo di fan da <i>Final Fantasy XII</i>, scritto con modelli AI sotto la mia direzione, con <a href="https://maxeo.github.io/ultima-alba-di-dalmasca/">lettore per l'audiolibro</a>. Opera non ufficiale e non commerciale.</td>
-<td width="33%" valign="top"><a href="https://maxeo.github.io/3dprint-guide/"><img src="assets/stampa-3d.svg" alt="Guide di stampa 3D: otto progetti che si alternano montati ed esplosi" width="100%"></a><br><b><a href="https://maxeo.github.io/3dprint-guide/">Guide di stampa 3D</a></b><br>Oggetti progettati e stampati in 3D, ognuno con la sua <a href="https://maxeo.github.io/3dprint-guide/">guida interattiva di stampa e montaggio</a>.</td>
+<td width="33%" valign="top"><a href="https://maxeo.github.io/3dprint-guide/"><img src="assets/stampa-3d.svg" alt="Guide di stampa 3D: otto progetti che si alternano montati ed esplosi" width="100%"></a><br><b><a href="https://maxeo.github.io/3dprint-guide/">Guide di stampa 3D</a></b><br>Oggetti progettati in Blender e stampati in 3D, ognuno con la sua <a href="https://maxeo.github.io/3dprint-guide/">guida interattiva di stampa e montaggio</a> e il modello da ruotare ed esplodere.</td>
 </tr>
 </table>
 
