@@ -41,7 +41,7 @@ I modelli hanno una [guida interattiva di stampa e montaggio](https://maxeo.gith
 <img src="assets/competenze.svg" alt=".NET, C#, PHP, JavaScript, Vue, Symfony, Laravel, Docker, Linux, Git e Blender" width="100%">
 
 - **Linguaggi:** C#/.NET, PHP, JavaScript, SQL, HTML, CSS
-- **Framework:** Symfony, Laravel, CodeIgniter, Laminas, Vue.js, Ionic, jQuery
+- **Framework:** ASP.NET Core, Blazor, Entity Framework Core, Windows Forms, Symfony, Laravel, CodeIgniter, Laminas, Vue.js, Ionic, jQuery
 - **Sistemi e strumenti:** Linux (Debian, Ubuntu, CentOS), Windows Server, Docker, Portainer, Git, SVN, FreePBX
 - **API e integrazioni:** REST, SOAP, JSON, bot Telegram, estensioni Chrome
 - **Piattaforme:** Vicidial, SuiteCRM, osTicket, OpenCart, Metabase
