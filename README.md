@@ -18,6 +18,11 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 <td width="33%" valign="top"><a href="https://github.com/maxeo/ultima-alba-di-dalmasca"><img src="assets/romanzo.svg" alt="Copertina animata con un'alba" width="100%"></a><br><b><a href="https://github.com/maxeo/ultima-alba-di-dalmasca">L'ultima alba di Dalmasca</a></b><br>Romanzo di fan da <i>Final Fantasy XII</i>, scritto con modelli AI sotto la mia direzione, con <a href="https://maxeo.github.io/ultima-alba-di-dalmasca/">lettore per l'audiolibro</a>. Opera non ufficiale e non commerciale.</td>
 <td width="33%" valign="top"><a href="https://maxeo.github.io/3dprint-guide/"><img src="assets/guide-3d-6fps.svg" alt="Guide di stampa 3D: nove progetti che si alternano montati ed esplosi" width="100%"></a><br><b><a href="https://maxeo.github.io/3dprint-guide/">Guide di stampa 3D</a></b><br>Oggetti progettati in Blender e stampati in 3D, ognuno con la sua <a href="https://maxeo.github.io/3dprint-guide/">guida interattiva</a> di stampa e montaggio e il modello da ruotare ed esplodere.</td>
 </tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/ha-vicohome"><img src="assets/vicohome.svg" alt="Eventi del campanello con foto, icona e ora" width="100%"></a><br><b><a href="https://github.com/maxeo/ha-vicohome">VicoHome per Home Assistant</a></b><br>Integrazione per camere e campanelli VicoHome: live WebRTC nel player di Home Assistant, eventi istantanei via push, archivio locale delle registrazioni e una scheda con gli eventi e le loro foto.</td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/ctop"><img src="assets/ctop.svg" alt="Tabella dei container con le barre della CPU" width="100%"></a><br><b><a href="https://github.com/maxeo/ctop">ctop</a></b><br>Fork mantenuto di <a href="https://github.com/bcicen/ctop">ctop</a>, il <i>top</i> per i container Docker: correzioni di sicurezza, Go aggiornato e build per Linux, macOS e Windows.</td>
+<td width="33%" valign="top"></td>
+</tr>
 </table>
 
 ## Esperienza

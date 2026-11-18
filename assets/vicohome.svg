@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 944 600" role="img" aria-label="VicoHome per Home Assistant: elenco degli eventi del campanello con foto, icona e ora">
+<defs>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14121c"/><stop offset="1" stop-color="#211c2e"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#241f33"/><stop offset="1" stop-color="#1a1725"/></linearGradient>
+<linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b2a33"/><stop offset=".55" stop-color="#4a4a52"/><stop offset=".62" stop-color="#1c1c22"/><stop offset="1" stop-color="#34343c"/></linearGradient>
+<linearGradient id="ic" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#18D2D2"/><stop offset="1" stop-color="#25D39A"/></linearGradient>
+<radialGradient id="l"><stop offset="0" stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<clipPath id="tc"><rect width="112" height="63" rx="8"/></clipPath>
+<g id="th"><g clip-path="url(#tc)"><rect width="112" height="63" fill="url(#n)"/><circle cx="34" cy="20" r="16" fill="url(#l)"/><rect x="33" y="14" width="2" height="22" fill="#d8d8de" opacity=".6"/><path d="M0 40 Q56 33 112 40" stroke="#6a6a72" stroke-width="2" fill="none"/></g></g>
+</defs>
+<style>
+.t1{font:500 54px "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;fill:#f1ece3}
+.t2{font:400 24px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#e9a65b}
+.d{font:600 19px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#a8a1b8}
+.tm{font:500 26px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#f1ece3}
+.b{font:700 16px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#fff}
+.du{font:400 18px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#a8a1b8}
+.hl{animation:h 4s ease-in-out infinite}
+@keyframes h{0%,100%{opacity:0}15%,45%{opacity:1}70%{opacity:0}}
+.bell{transform-box:fill-box;transform-origin:50% 10%;animation:r 4s ease-in-out infinite}
+@keyframes r{0%,4%,30%,100%{transform:rotate(0)}8%{transform:rotate(14deg)}13%{transform:rotate(-12deg)}18%{transform:rotate(9deg)}23%{transform:rotate(-6deg)}}
+.wv{animation:v 4s ease-out infinite}
+@keyframes v{0%,4%{opacity:0}10%,26%{opacity:1}40%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.hl,.bell,.wv{animation:none}.hl{opacity:0}}
+</style>
+<rect width="944" height="600" fill="url(#f)"/>
+<text class="t1" x="72" y="92">VicoHome</text>
+<text class="t2" x="72" y="130">Campanello e camere in Home Assistant</text>
+<g transform="translate(784 44) scale(.2)">
+<rect x="24" y="24" width="464" height="464" rx="104" fill="url(#ic)"/>
+<path d="M344 108Q344 104 348 104L384 104Q388 104 388 108L388 184L344 155Z" fill="#fff"/>
+<path d="M74 216L256 94L438 216" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="170" y1="254" x2="258" y2="418" stroke="#fff" stroke-width="78" stroke-linecap="round"/>
+<line x1="344" y1="258" x2="302" y2="334" stroke="#fff" stroke-opacity=".6" stroke-width="66" stroke-linecap="round"/>
+</g>
+<rect x="72" y="176" width="800" height="356" rx="22" fill="url(#s)" stroke="#3a3350" stroke-width="2"/>
+<text class="d" x="104" y="214">Oggi · 18 novembre</text>
+
+<!-- 1: doorbell, highlighted as a new event -->
+<g transform="translate(0 -6)">
+<rect class="hl" x="90" y="232" width="764" height="75" rx="12" fill="#2e7d32" fill-opacity=".16"/>
+<use href="#th" x="104" y="238"/>
+<circle cx="258" cy="270" r="22" fill="#2e7d32"/>
+<g fill="#fff"><path class="bell" d="M258 256c-6 0-10 4.5-10 10v8l-3 4h26l-3-4v-8c0-5.5-4-10-10-10zm-3.5 24a3.5 3.5 0 0 0 7 0z"/></g>
+<g class="wv" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M244 259a16 16 0 0 0-3 8"/><path d="M272 259a16 16 0 0 1 3 8"/></g>
+<text class="tm" x="300" y="264">22:52:59</text>
+<rect x="300" y="276" width="112" height="24" rx="5" fill="#2e7d32"/><text class="b" x="310" y="294">Campanello</text>
+<text class="du" x="424" y="294">11 s</text>
+<path d="M826 262l8 8-8 8" fill="none" stroke="#a8a1b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- 2: camera started -->
+<g transform="translate(0 -12)">
+<use href="#th" x="104" y="316"/>
+<circle cx="258" cy="348" r="22" fill="#c2702a"/>
+<g fill="#fff"><rect x="245" y="340" width="18" height="16" rx="3"/><path d="M265 344l8-5v18l-8-5z"/></g>
+<text class="tm" x="300" y="342">21:40:55</text>
+<rect x="300" y="354" width="144" height="24" rx="5" fill="#c2702a"/><text class="b" x="310" y="372">Camera avviata</text>
+<text class="du" x="456" y="372">14 s</text>
+<path d="M826 340l8 8-8 8" fill="none" stroke="#a8a1b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- 3: person -->
+<g transform="translate(0 -18)">
+<use href="#th" x="104" y="394"/>
+<circle cx="258" cy="426" r="22" fill="#1565c0"/>
+<g fill="#fff"><circle cx="258" cy="420" r="6"/><path d="M247 437c0-6 5-9 11-9s11 3 11 9z"/></g>
+<text class="tm" x="300" y="420">19:18:32</text>
+<rect x="300" y="432" width="84" height="24" rx="5" fill="#1565c0"/><text class="b" x="310" y="450">Persona</text>
+<text class="du" x="396" y="450">9 s</text>
+<path d="M826 418l8 8-8 8" fill="none" stroke="#a8a1b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- 4: package -->
+<g transform="translate(0 -24)">
+<use href="#th" x="104" y="472"/>
+<circle cx="258" cy="503" r="22" fill="#6d4c41"/>
+<g fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"><path d="M247 497l11-6 11 6v13l-11 6-11-6z"/><path d="M247 497l11 6 11-6M258 503v13"/></g>
+<text class="tm" x="300" y="497">12:05:10</text>
+<rect x="300" y="508" width="66" height="22" rx="5" fill="#6d4c41"/><text class="b" x="310" y="525">Pacco</text>
+<text class="du" x="378" y="525">12 s</text>
+<path d="M826 495l8 8-8 8" fill="none" stroke="#a8a1b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
