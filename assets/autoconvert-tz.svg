@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 944 600" role="img" aria-label="autoconvert-tz-gf: dagli orari di un foglio di calcolo a un Google Form con una sezione per ogni fuso orario">
+<defs>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14121c"/><stop offset="1" stop-color="#211c2e"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#241f33"/><stop offset="1" stop-color="#1a1725"/></linearGradient>
+</defs>
+<style>
+.t1{font:500 54px "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;fill:#f1ece3}
+.t2{font:400 24px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;fill:#e9a65b}
+.h{font:700 19px ui-monospace,"Cascadia Mono",Consolas,Menlo,monospace;fill:#e9a65b}
+.r{font:400 21px ui-monospace,"Cascadia Mono",Consolas,Menlo,monospace;fill:#f1ece3}
+.m{font:400 21px ui-monospace,"Cascadia Mono",Consolas,Menlo,monospace;fill:#a8a1b8}
+.n{font:400 18px ui-monospace,"Cascadia Mono",Consolas,Menlo,monospace;fill:#a8a1b8}
+.tz{font:700 30px ui-monospace,"Cascadia Mono",Consolas,Menlo,monospace;fill:#f1ece3}
+.a{fill:#e9a65b}
+.hand{transform-origin:836px 96px;animation:h 9s linear infinite}
+@keyframes h{to{transform:rotate(360deg)}}
+.g{animation:z 9s ease-in-out infinite}
+.g2,.g3{opacity:0}
+.g2{animation-delay:-6s}
+.g3{animation-delay:-3s}
+@keyframes z{0%,28%{opacity:1}33%,95%{opacity:0}100%{opacity:1}}
+.flow{stroke-dasharray:8 10;animation:d 1.2s linear infinite}
+@keyframes d{to{stroke-dashoffset:-18}}
+@media (prefers-reduced-motion:reduce){.hand,.g,.flow{animation:none}}
+</style>
+<rect width="944" height="600" fill="url(#f)"/>
+<text class="t1" x="72" y="92">autoconvert-tz-gf</text>
+<text class="t2" x="72" y="130">Google Form per fuso orario da un foglio di calcolo</text>
+<circle cx="836" cy="96" r="54" fill="none" stroke="#e9a65b" stroke-width="2"/>
+<g stroke="#e9a65b" stroke-width="3" stroke-linecap="round"><line x1="836" y1="52" x2="836" y2="60"/><line x1="880" y1="96" x2="872" y2="96"/><line x1="836" y1="140" x2="836" y2="132"/><line x1="792" y1="96" x2="800" y2="96"/></g>
+<line x1="836" y1="96" x2="858" y2="108" stroke="#e9a65b" stroke-width="6" stroke-linecap="round"/>
+<line class="hand" x1="836" y1="96" x2="836" y2="64" stroke="#e9a65b" stroke-width="4" stroke-linecap="round"/>
+<circle cx="836" cy="96" r="5" fill="#e9a65b"/>
+<rect x="72" y="176" width="800" height="356" rx="22" fill="url(#s)" stroke="#3a3350" stroke-width="2"/>
+
+<text class="h" x="104" y="222">DATA</text><text class="h" x="200" y="222">ORA</text><text class="h" x="284" y="222">PERSONE</text>
+<line x1="104" y1="236" x2="430" y2="236" stroke="#3a3350" stroke-width="2"/>
+<text class="m" x="104" y="282">01/07</text><text class="r" x="200" y="282">16:00</text><text class="n" x="284" y="281">Mario, Luigi</text>
+<line x1="104" y1="302" x2="430" y2="302" stroke="#2f2942" stroke-width="1.5"/>
+<text class="m" x="104" y="336">01/07</text><text class="r" x="200" y="336">17:00</text><text class="n" x="284" y="335">Luigi, Peach</text>
+<line x1="104" y1="356" x2="430" y2="356" stroke="#2f2942" stroke-width="1.5"/>
+<text class="m" x="104" y="390">01/07</text><text class="r" x="200" y="390">18:00</text><text class="n" x="284" y="389">Mario, Peach</text>
+<text class="n" x="104" y="490">Orari di riferimento: GMT+02:00</text>
+
+<path class="flow" d="M444 340H488" fill="none" stroke="#e9a65b" stroke-width="4" stroke-linecap="round"/>
+<path d="M484 328l14 12-14 12" fill="none" stroke="#e9a65b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<rect x="520" y="206" width="320" height="300" rx="14" fill="#2a2440" stroke="#3a3350" stroke-width="2"/>
+<path d="M534 206h292a14 14 0 0 1 14 14v0H520v0a14 14 0 0 1 14-14z" fill="#e9a65b"/>
+<text class="h" x="544" y="256">SEZIONE</text>
+
+<g class="g g1">
+<text class="tz" x="544" y="296">GMT+02:00</text>
+<text class="r" x="580" y="352">lun 1 lug 16:00</text>
+<text class="r" x="580" y="398">lun 1 lug 17:00</text>
+<text class="r" x="580" y="444">lun 1 lug 18:00</text>
+</g>
+<g class="g g2">
+<text class="tz" x="544" y="296">GMT-04:00</text>
+<text class="r" x="580" y="352">lun 1 lug 10:00</text>
+<text class="r" x="580" y="398">lun 1 lug 11:00</text>
+<text class="r" x="580" y="444">lun 1 lug 12:00</text>
+</g>
+<g class="g g3">
+<text class="tz" x="544" y="296">GMT+09:00</text>
+<text class="r" x="580" y="352">lun 1 lug 23:00</text>
+<text class="r" x="580" y="398"><tspan class="a">mar 2 lug</tspan> 00:00</text>
+<text class="r" x="580" y="444"><tspan class="a">mar 2 lug</tspan> 01:00</text>
+</g>
+
+<rect x="546" y="336" width="20" height="20" rx="4" fill="#3fb68b"/><path d="M550 346l5 5 8-9" fill="none" stroke="#14121c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="547" y="383" width="18" height="18" rx="4" fill="none" stroke="#6b6478" stroke-width="2"/>
+<rect x="546" y="428" width="20" height="20" rx="4" fill="#3fb68b"/><path d="M550 438l5 5 8-9" fill="none" stroke="#14121c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="n" x="544" y="486">Una sezione per ogni fuso</text>
+</svg>

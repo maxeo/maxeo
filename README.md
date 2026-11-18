@@ -21,7 +21,7 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 <tr>
 <td width="33%" valign="top"><a href="https://github.com/maxeo/ha-vicohome"><img src="assets/vicohome.svg" alt="Eventi del campanello con foto, icona e ora" width="100%"></a><br><b><a href="https://github.com/maxeo/ha-vicohome">VicoHome per Home Assistant</a></b><br>Integrazione per camere e campanelli VicoHome: live WebRTC nel player di Home Assistant, eventi istantanei via push, archivio locale delle registrazioni e una scheda con gli eventi e le loro foto.</td>
 <td width="33%" valign="top"><a href="https://github.com/maxeo/ctop"><img src="assets/ctop.svg" alt="Tabella dei container con le barre della CPU" width="100%"></a><br><b><a href="https://github.com/maxeo/ctop">ctop</a></b><br>Fork mantenuto di <a href="https://github.com/bcicen/ctop">ctop</a>, il <i>top</i> per i container Docker: correzioni di sicurezza, Go aggiornato e build per Linux, macOS e Windows.</td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top"><a href="https://github.com/maxeo/autoconvert-tz-gf"><img src="assets/autoconvert-tz.svg" alt="Orari di un foglio di calcolo convertiti nelle sezioni di un Google Form, una per fuso orario" width="100%"></a><br><b><a href="https://github.com/maxeo/autoconvert-tz-gf">autoconvert-tz-gf</a></b><br>Google Apps Script che rigenera un Google Form dagli orari di un foglio di calcolo: chi risponde sceglie il proprio fuso e vede le disponibilità già convertite nella sua ora locale.</td>
 </tr>
 </table>
 
@@ -57,7 +57,6 @@ In **Skynet Technology** mi occupo di sviluppo .NET e di progetti interni con ag
 - [challenge-airprice](https://github.com/maxeo/challenge-airprice): API PHP con frontend Vue e Docker
 - [timer-alessandro](https://github.com/maxeo/timer-alessandro): timer web, disponibile anche come estensione Chrome
 - [net-deployer](https://github.com/maxeo/net-deployer): piccolo strumento di deploy in C#
-- [autoconvert-tz-gf](https://github.com/maxeo/autoconvert-tz-gf): Google Apps Script per generare moduli da un foglio di calcolo
 - [jQueryCssDynamic](https://github.com/maxeo/jQueryCssDynamic): plugin jQuery per modificare il CSS in modo dinamico
 - [Script utente su Greasy Fork](https://greasyfork.org/it/users/88678-mattealex)
 
